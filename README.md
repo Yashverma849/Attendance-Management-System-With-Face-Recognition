@@ -46,8 +46,8 @@ A Python-based attendance management system that automates attendance marking us
 ## Installation 🛠️
 ### Clone the repository:
 ```bash
-git clone https://github.com/Yashverma849/Attendance-Management-System.git
-cd Attendance-Management-System/Attendance-Management-system-using-face-recognition-master
+git clone https://github.com/Yashverma849/Attendance-Management-System-With-Face-Recognition.git
+cd Attendance-Management-System-With-Face-Recognition
 ```
 ### Install dependencies:
 ```bash
